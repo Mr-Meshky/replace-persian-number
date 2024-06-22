@@ -6,5 +6,24 @@
   "types": "dist/index.d.ts",
   "files": [
     "/dist"
-  ]
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mr-Meshky/replace-number.git"
+  },
+  "keywords": [
+    "persian",
+    "replace-persian-number",
+    "replace",
+    "replace-number"
+  ],
+  "author": "MrMeshky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Meshky/replace-number/issues"
+  },
+  "homepage": "https://github.com/Mr-Meshky/replace-number#readme"
 }
