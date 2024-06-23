@@ -1,4 +1,4 @@
-# Project Name
+# replace-persian-number
 
 > Automatic conversion of Farsi numbers to English and vice versa
 
