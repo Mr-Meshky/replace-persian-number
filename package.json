@@ -1,6 +1,6 @@
 {
   "name": "replace-persian-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatic conversion of Farsi numbers to English and vice versa",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
